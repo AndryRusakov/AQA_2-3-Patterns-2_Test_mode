@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/wmu2pednqb7lnvd2?svg=true)](https://ci.appveyor.com/project/AndryRusakov/aqa-2-3-patterns-2-test-mode)
+![example workflow](https://github.com/AndryRusakov/AQA_2-3-Patterns-2_Test_mode/actions/workflows/.appveyor.yml/badge.svg)
